@@ -194,3 +194,30 @@ This makes HB-2 v2 adaptable to a wide spectrum of IoT deployments, from high-pe
 
 This project is licensed under the BSD 3-Clause License.
 
+This repository contains research implementations developed within
+the SCYTALE Research Group, Department of Computer Engineering and
+Informatics (CEID), University of Patras, Greece.
+
+Supervision: Prof. Nikolaos Sklavos
+
+This work is associated with the conference publication:
+
+"Optimizing Lightweight Cryptographic Schemes for Enhanced Security
+in RFID and Wireless Sensor Networks"
+MoCAST 2025 — International Conference on Modern Circuits and
+Systems Technologies
+DOI: 10.1109/MOCAST65744.2025.11083910
+
+The views expressed in this repository are solely those of the
+authors and do not necessarily reflect the views of the University
+of Patras, the Department, or the SCYTALE Research Group.
+
+The publisher’s version of the paper is not distributed in this
+repository. Please refer to the official conference proceedings
+or IEEE Xplore for the published article.
+
+© Copyright of the implementation and repository content:
+Georgios Ntakos, Evangelia Konstantopoulou,
+Nicolas Sklavos, 2025
+
+All rights reserved.
