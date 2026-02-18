@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "HB-2 v2 FPGA Implementations for Secure RFID and Wireless Sensor Networks"
+message: "If you use this repository, please cite the associated MoCAST 2025 paper."
+type: software
+
+authors:
+  - family-names: "Ntakos"
+    given-names: "George"
+  - family-names: "Konstantopoulou"
+    given-names: "Evangelia"
+  - family-names: "Sklavos"
+    given-names: "Nicolas"
+
+affiliation: "SCYTALE Group, Department of Computer Engineering and Informatics, University of Patras"
+
+keywords:
+  - FPGA
+  - VHDL
+  - Lightweight Cryptography
+  - RFID
+  - Wireless Sensor Networks
+  - Hummingbird-2
+
+date-released: 2025
+
+license: "BSD-3-Clause"
