@@ -1,0 +1,21 @@
+
+Source: Literature (Saarinen, Related-Key Attacks Against Full Hummingbird-2, FSE 2013)
+Reference Hummingbird-2 Test Vector
+
+Note:
+Hummingbird-2 processes data in little-endian byte order.
+
+KEY:
+01 23 45 67 89 AB CD EF FE DC BA 98 76 54 32 10
+
+IV / Nonce:
+12 34 56 78 9A BC DE F0
+
+Plaintext:
+00 11 22 33 44 55 66 77 88 99 AA BB CC DD EE FF
+
+Ciphertext:
+63 66 F6 CB 60 0F A4 CE 52 78 D8 A8 5B 39 E2 B3
+
+MAC:
+E8 50 64 50 68 CA 49 04 9C E8 6A 54 55 F0 00 F0

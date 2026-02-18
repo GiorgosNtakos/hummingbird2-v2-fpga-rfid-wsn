@@ -1,0 +1,5 @@
+Algorithm,Frequency_MHz,Throughput_Mbps,Efficiency
+HB2_v2 (full unrolled),71.429,285.716,0.75
+HB2_v2 (full rolled),285.714,142.857,0.83
+HB2_v2 (full unrolled & pipelined),384.615,6153.84,14.34
+HB2_v2 (full rolled & pipelined),454.545,427.807,1.7

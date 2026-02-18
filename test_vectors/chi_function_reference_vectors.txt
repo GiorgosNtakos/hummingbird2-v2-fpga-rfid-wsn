@@ -1,0 +1,11 @@
+
+Reference Test Vectors for XN (χₙ) Function
+Source: Literature (Saarinen, Related-Key Attacks Against Full Hummingbird-2, FSE 2013)
+
+Format:
+XN(X0, X1, X2, X3, X4) = Output
+
+XN(0000,0000,0000,0000,0000) = FECB
+XN(1234,5555,5555,5555,5555) = 18E6
+XN(0000,0123,4567,89AB,CDEF) = 3286
+

@@ -1,0 +1,5 @@
+Algorithm,Key_size_bits,Block_size_bits,LUTs,FFs,Slices,Device_part,Device_family
+HB2_v2 (full unrolled),128,16,1190,64,376,xc7a200tffg1156-3,Artix-7
+HB2_v2 (full rolled),128,16,575,83,171,xc7a200tffg1156-3,Artix-7
+HB2_v2 (full unrolled & pipelined),128,16,1497,736,429,xc7a200tffg1156-3,Artix-7
+HB2_v2 (full rolled & pipelined),128,16,701,635,251,xc7a200tffg1156-3,Artix-7

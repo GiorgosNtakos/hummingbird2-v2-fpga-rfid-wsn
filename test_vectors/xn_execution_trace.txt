@@ -1,0 +1,13 @@
+
+
+XN Function Execution Trace (Reference)
+Source: Literature (Saarinen, Related-Key Attacks Against Full Hummingbird-2, FSE 2013)
+
+Input:
+x = 0000
+
+Intermediate state:
+t = 4C70 D80E 8857 2DB9 169D B89A 39B7
+
+Output:
+y = 3286
